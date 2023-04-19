@@ -1,0 +1,5 @@
+cach de tao 1 reponsitory : git init
+
+cach ket noi: git remote add origin https://github.com/qbaobbao/demogit.git
+
+cac buoc de day code len romote repo: 
