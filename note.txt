@@ -3,3 +3,9 @@ cach de tao 1 reponsitory : git init
 cach ket noi: git remote add origin https://github.com/qbaobbao/demogit.git
 
 cac buoc de day code len romote repo: 
+B1: git add +ten file muon day hoac git add. de day len tat ca file thay doi , kiem tra su thay doi : git status , 
+git reset: huy bo day code len staging
+
+B2: tao ra comit de ghi chu lai su thay doi code, chung ta dung lenh git commit -m "loi nhan"
+
+B3: git push -u origin main/master :day code tu local len github
