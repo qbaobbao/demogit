@@ -8,4 +8,19 @@ git reset: huy bo day code len staging
 
 B2: tao ra comit de ghi chu lai su thay doi code, chung ta dung lenh git commit -m "loi nhan"
 
-B3: git push -u origin main/master :day code tu local len github
+B3: git push -u origin main/master :day code tu local len github ( lan thu2 chi can go lenh: git push origin)
+
+cach  lay surce code: git clone + link clone cua nguoi khac
+
+cap nhat clone : git pull
+
+quay lai commit gan nhat : git stash
+
+*Cac buoc de tao nhanh :
+B1: Git branch + ten nhanh, de kiem tra cac nhanh dang co: git branch , muon chuyen nhanh dung lenh git checkout + ten nhanh , 
+
+git branch -a : xem co bao nhieu nhanh
+
+git fetch: 
+
+git merge: gop cac nhanh phu ve nhanh chinh
